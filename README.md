@@ -41,3 +41,23 @@ git add <- file name ->.............for eg  git add .\index.html
 <br>
 commit-->
 git commit -m "some message"
+<br>
+push command......-->
+git push origin main
+<br>
+
+init command-->
+<br>
+git init
+<br>
+git remote add origin <- link ->
+<br>
+got branch (to check branch)
+<br>
+git remote -v (to verify remote)
+
+<br>
+git branch -M main ( to rename branch)
+
+<br>
+git push origin main
