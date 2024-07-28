@@ -32,3 +32,12 @@ dir -Force
 <br>
 ls -Force
 
+<br>
+how to add & commit..-->
+<br>
+add->
+git add <- file name ->.............for eg  git add .\index.html
+.............or git add .
+<br>
+commit-->
+git commit -m "some message"
